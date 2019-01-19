@@ -1,0 +1,1 @@
+A very simple arduino-based device that measures temperature and humidity using DHT11 sensor. I used arduino-DHT library made by Mark Ruys (github.com/markruys). 
